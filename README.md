@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🌱Learning Golang and python
-To contact me
- 📫 mail:admin@miopara.top
-Telegram:@miopara
+- 🌱Learning Golang and python
+- To contact me
+- - 📫 mail:admin@miopara.top
+- - Telegram:@miopara
